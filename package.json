@@ -1,0 +1,10 @@
+{
+  "name": "daq-lambda",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "./build.sh"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.666.0"
+  }
+}
